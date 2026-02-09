@@ -1,6 +1,7 @@
 /*
  * Project: RGB NeoPixel Demo v1.0 in RTOS Multitasking
- * Hardware: ESP32-S3 (Cucumber RS) with BMP280, SHT4x, MPU6050, NeoPixel
+ * Hardware: ESP32-SS (Cucumber RS) with BMP280, SHT4x, MPU6050, NeoPixel
+ * Remember, please select an "ESP32S2 Dev Module" in Arduino IDE before uploading your code.
  * 2102541 IOT Fundamentals, Electrical Engineering, Chulalongkorn University
  * Rewrite code by Dr.Natthakorn Kasamsumran (NKR) February 3, 2026
  */
